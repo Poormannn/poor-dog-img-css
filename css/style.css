@@ -299,7 +299,7 @@ body._lock {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: url(../img/close.png) center/contain no-repeat;
+    background: url(../img/close.webp) center/contain no-repeat;
     transition: all .5s ease;
     opacity: 0
 }
