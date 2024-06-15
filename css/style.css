@@ -2792,6 +2792,12 @@ a {
     height: 400px;
 }
 
+.dog-container canvas {
+    box-shadow: 5px 5px 0px 0px #000;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+
 .dog-container img {
     position: absolute;
     top: 0;
